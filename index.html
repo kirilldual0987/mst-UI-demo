@@ -1,0 +1,38 @@
+<!doctype html>
+<html lang="ru" data-theme="light" data-accent="jade" data-font="medium">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
+    <meta name="theme-color" content="#f7f9f5" />
+    <meta
+      name="description"
+      content="Messthon — единый интерфейс для Matrix, XMPP и будущих протоколов обмена сообщениями."
+    />
+    <link rel="icon" type="image/svg+xml" href="%BASE_URL%favicon.svg" />
+    <title>Messthon — мультипротокольный мессенджер</title>
+    <script>
+      (() => {
+        try {
+          const raw = localStorage.getItem('messthon.settings.v1');
+          const settings = raw ? JSON.parse(raw) : {};
+          const systemDark = window.matchMedia('(prefers-color-scheme: dark)').matches;
+          const theme =
+            settings.theme === 'dark' || settings.theme === 'light'
+              ? settings.theme
+              : systemDark
+                ? 'dark'
+                : 'light';
+          document.documentElement.dataset.theme = theme;
+          if (settings.accent) document.documentElement.dataset.accent = settings.accent;
+          if (settings.fontSize) document.documentElement.dataset.font = settings.fontSize;
+        } catch {
+          /* The app applies the defaults when storage is unavailable. */
+        }
+      })();
+    </script>
+  </head>
+  <body>
+    <div id="root"></div>
+    <script type="module" src="/src/main.tsx"></script>
+  </body>
+</html>

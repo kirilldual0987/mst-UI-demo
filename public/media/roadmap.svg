@@ -1,0 +1,107 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="900" viewBox="0 0 1440 900" role="img" aria-label="Roadmap продукта Messthon на ноябрь">
+  <rect width="1440" height="900" fill="#eef2ed"/>
+  <rect x="40" y="40" width="1360" height="820" rx="12" fill="#fbfcf9" stroke="#d6e0d5"/>
+  <rect x="40" y="40" width="1360" height="76" rx="12" fill="#fbfcf9"/>
+  <path d="M40 116h1360" stroke="#d6e0d5"/>
+  <text x="76" y="84" font-family="Inter, Arial, sans-serif" font-size="24" font-weight="650" letter-spacing="-0.8" fill="#152018">Product roadmap</text>
+  <text x="76" y="103" font-family="Inter, Arial, sans-serif" font-size="11" fill="#728176">November 2026 · internal review</text>
+  <rect x="1210" y="72" width="144" height="28" rx="5" fill="#0c7a4a"/>
+  <text x="1240" y="90" font-family="Inter, Arial, sans-serif" font-size="10" font-weight="600" fill="#fff">В работе</text>
+
+  <g font-family="Inter, Arial, sans-serif" font-size="11" fill="#69776d">
+    <text x="76" y="148" font-weight="650">БЭКЛОГ</text>
+    <text x="422" y="148" font-weight="650">В РАБОТЕ</text>
+    <text x="768" y="148" font-weight="650">ПРОВЕРКА</text>
+    <text x="1114" y="148" font-weight="650">ГОТОВО</text>
+  </g>
+  <path d="M76 162h264M422 162h264M768 162h264M1114 162h126" stroke="#cbd6ca"/>
+
+  <rect x="76" y="184" width="280" height="138" rx="7" fill="#ffffff" stroke="#dbe3d8"/>
+  <rect x="92" y="202" width="48" height="16" rx="4" fill="#efe8d9"/>
+  <text x="100" y="213" font-family="Inter, Arial, sans-serif" font-size="8" fill="#7c6d50">MATRIX</text>
+  <text x="92" y="242" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="600" fill="#162117">Подключение Spaces</text>
+  <rect x="92" y="257" width="192" height="5" rx="2.5" fill="#e1e8df"/>
+  <rect x="92" y="270" width="156" height="5" rx="2.5" fill="#e1e8df"/>
+  <circle cx="320" cy="294" r="10" fill="#d7e8db"/>
+  <text x="317" y="297" font-family="Inter, Arial, sans-serif" font-size="8" fill="#32523b">A</text>
+
+  <rect x="76" y="340" width="280" height="120" rx="7" fill="#ffffff" stroke="#dbe3d8"/>
+  <rect x="92" y="358" width="52" height="16" rx="4" fill="#e2ecf2"/>
+  <text x="100" y="369" font-family="Inter, Arial, sans-serif" font-size="8" fill="#496b7d">XMPP</text>
+  <text x="92" y="398" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="600" fill="#162117">MUC history</text>
+  <rect x="92" y="413" width="170" height="5" rx="2.5" fill="#e1e8df"/>
+  <circle cx="320" cy="426" r="10" fill="#e7ded1"/>
+  <text x="316" y="429" font-family="Inter, Arial, sans-serif" font-size="8" fill="#5f4e38">M</text>
+
+  <rect x="76" y="478" width="280" height="122" rx="7" fill="#ffffff" stroke="#dbe3d8"/>
+  <rect x="92" y="496" width="42" height="16" rx="4" fill="#efe8d9"/>
+  <text x="100" y="507" font-family="Inter, Arial, sans-serif" font-size="8" fill="#7c6d50">UX</text>
+  <text x="92" y="536" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="600" fill="#162117">Профиль контакта</text>
+  <rect x="92" y="551" width="150" height="5" rx="2.5" fill="#e1e8df"/>
+
+  <rect x="422" y="184" width="280" height="160" rx="7" fill="#ffffff" stroke="#b9d9c4"/>
+  <rect x="438" y="202" width="44" height="16" rx="4" fill="#dff1e4"/>
+  <text x="446" y="213" font-family="Inter, Arial, sans-serif" font-size="8" fill="#316d45">SYNC</text>
+  <text x="438" y="242" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="600" fill="#162117">Переключатель аккаунтов</text>
+  <rect x="438" y="257" width="222" height="5" rx="2.5" fill="#e1e8df"/>
+  <rect x="438" y="270" width="190" height="5" rx="2.5" fill="#e1e8df"/>
+  <rect x="438" y="292" width="84" height="22" rx="4" fill="#c7efd5"/>
+  <text x="450" y="307" font-family="Inter, Arial, sans-serif" font-size="8" fill="#1d5733">в разработке</text>
+  <circle cx="666" cy="316" r="10" fill="#d7e8db"/>
+
+  <rect x="422" y="362" width="280" height="148" rx="7" fill="#ffffff" stroke="#dbe3d8"/>
+  <rect x="438" y="380" width="56" height="16" rx="4" fill="#e2ecf2"/>
+  <text x="444" y="391" font-family="Inter, Arial, sans-serif" font-size="8" fill="#496b7d">XMPP</text>
+  <text x="438" y="420" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="600" fill="#162117">OMEMO device trust</text>
+  <rect x="438" y="435" width="202" height="5" rx="2.5" fill="#e1e8df"/>
+  <rect x="438" y="448" width="160" height="5" rx="2.5" fill="#e1e8df"/>
+  <circle cx="666" cy="478" r="10" fill="#e7ded1"/>
+
+  <rect x="422" y="528" width="280" height="116" rx="7" fill="#ffffff" stroke="#dbe3d8"/>
+  <text x="438" y="558" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="600" fill="#162117">Вложения</text>
+  <rect x="438" y="573" width="184" height="5" rx="2.5" fill="#e1e8df"/>
+  <rect x="438" y="586" width="140" height="5" rx="2.5" fill="#e1e8df"/>
+  <circle cx="666" cy="610" r="10" fill="#d7e8db"/>
+
+  <rect x="768" y="184" width="280" height="142" rx="7" fill="#ffffff" stroke="#dbe3d8"/>
+  <rect x="784" y="202" width="54" height="16" rx="4" fill="#efe8d9"/>
+  <text x="791" y="213" font-family="Inter, Arial, sans-serif" font-size="8" fill="#7c6d50">SECURITY</text>
+  <text x="784" y="242" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="600" fill="#162117">Проверка устройств</text>
+  <rect x="784" y="257" width="206" height="5" rx="2.5" fill="#e1e8df"/>
+  <rect x="784" y="280" width="72" height="22" rx="4" fill="#f3ead5"/>
+  <text x="796" y="295" font-family="Inter, Arial, sans-serif" font-size="8" fill="#766130">на ревью</text>
+
+  <rect x="768" y="344" width="280" height="128" rx="7" fill="#ffffff" stroke="#dbe3d8"/>
+  <text x="784" y="376" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="600" fill="#162117">Мобильная адаптация</text>
+  <rect x="784" y="391" width="198" height="5" rx="2.5" fill="#e1e8df"/>
+  <rect x="784" y="404" width="150" height="5" rx="2.5" fill="#e1e8df"/>
+  <circle cx="1012" cy="448" r="10" fill="#d7e8db"/>
+
+  <rect x="768" y="490" width="280" height="126" rx="7" fill="#ffffff" stroke="#dbe3d8"/>
+  <text x="784" y="522" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="600" fill="#162117">Светлая и тёмная темы</text>
+  <rect x="784" y="537" width="170" height="5" rx="2.5" fill="#e1e8df"/>
+  <circle cx="1012" cy="596" r="10" fill="#e7ded1"/>
+
+  <rect x="1114" y="184" width="250" height="126" rx="7" fill="#ffffff" stroke="#dbe3d8"/>
+  <rect x="1130" y="202" width="36" height="16" rx="4" fill="#dff1e4"/>
+  <text x="1138" y="213" font-family="Inter, Arial, sans-serif" font-size="8" fill="#316d45">DONE</text>
+  <text x="1130" y="242" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="600" fill="#162117">Единая лента</text>
+  <rect x="1130" y="257" width="180" height="5" rx="2.5" fill="#e1e8df"/>
+  <text x="1130" y="286" font-family="Inter, Arial, sans-serif" font-size="8" fill="#7f8c81">105 / 105 задач</text>
+
+  <rect x="1114" y="328" width="250" height="112" rx="7" fill="#ffffff" stroke="#dbe3d8"/>
+  <text x="1130" y="360" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="600" fill="#162117">Токены дизайн-системы</text>
+  <rect x="1130" y="375" width="162" height="5" rx="2.5" fill="#e1e8df"/>
+  <text x="1130" y="404" font-family="Inter, Arial, sans-serif" font-size="8" fill="#7f8c81">Закрыто · 12 ноября</text>
+
+  <rect x="1114" y="458" width="250" height="106" rx="7" fill="#ffffff" stroke="#dbe3d8"/>
+  <text x="1130" y="490" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="600" fill="#162117">Настройки аккаунтов</text>
+  <rect x="1130" y="505" width="134" height="5" rx="2.5" fill="#e1e8df"/>
+
+  <path d="M76 706h1288" stroke="#d6e0d5"/>
+  <text x="76" y="740" font-family="Inter, Arial, sans-serif" font-size="10" fill="#7c8a7f">Фокус месяца: стабильность аккаунтов, ясность идентичности и быстрый переключатель.</text>
+  <rect x="76" y="770" width="46" height="8" rx="4" fill="#0c7a4a"/>
+  <rect x="130" y="770" width="46" height="8" rx="4" fill="#c7efd5"/>
+  <rect x="184" y="770" width="46" height="8" rx="4" fill="#dfe7dd"/>
+  <rect x="238" y="770" width="46" height="8" rx="4" fill="#e8e2d5"/>
+</svg>

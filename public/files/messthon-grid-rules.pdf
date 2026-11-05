@@ -1,0 +1,122 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [4 0 R 6 0 R 8 0 R 10 0 R] /Count 4 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R >> >> /Contents 5 0 R >>
+endobj
+5 0 obj
+<< /Length 983 >>
+stream
+BT
+/F1 24 Tf 56 760 Td (Messthon Grid Rules) Tj
+/F1 11 Tf 56 736 Td (A compact guide to spacing, typography and layout rhythm.) Tj
+/F1 14 Tf 56 688 Td (1. Base grid) Tj
+/F1 10 Tf 56 668 Td (Use an 8 px spacing base. Components may use 4 px for tight inline rhythm.) Tj
+/F1 10 Tf 56 652 Td (The navigation rail is 244 px on desktop and 72 px on tablet.) Tj
+/F1 10 Tf 56 636 Td (The conversation list defaults to 328 px. Information panel defaults to 304 px.) Tj
+/F1 14 Tf 56 588 Td (2. Typography) Tj
+/F1 10 Tf 56 568 Td (Inter Variable is the only interface family. Body sizes range from 11 to 15 px.) Tj
+/F1 10 Tf 56 552 Td (Headings use 620 to 660 weight and negative tracking. Avoid all-caps labels longer than 2 words.) Tj
+/F1 14 Tf 56 504 Td (3. Surfaces) Tj
+/F1 10 Tf 56 484 Td (Use neutral green-tinted surfaces. Dividers are 1 px and never purely decorative.) Tj
+/F1 10 Tf 56 468 Td (Green is reserved for primary actions, focus, active navigation and selected states.) Tj
+ET
+endstream
+endobj
+6 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R >> >> /Contents 7 0 R >>
+endobj
+7 0 obj
+<< /Length 1078 >>
+stream
+BT
+/F1 22 Tf 56 760 Td (Conversation list) Tj
+/F1 10 Tf 56 732 Td (Each row must expose: avatar, display name, last message, time, unread count.) Tj
+/F1 10 Tf 56 716 Td (Protocol and account identity are displayed as one compact metadata line.) Tj
+/F1 10 Tf 56 700 Td (Pinned and muted states use 11 px icons and a text hint when space allows.) Tj
+/F1 14 Tf 56 652 Td (Row anatomy) Tj
+/F1 10 Tf 56 632 Td (Avatar: 44 px. Body: flexible. Trailing badge: 20 px minimum height.) Tj
+/F1 10 Tf 56 616 Td (Vertical padding is 10 px. Repeated rows have a 1 px active indicator on the left.) Tj
+/F1 14 Tf 56 568 Td (Search and filtering) Tj
+/F1 10 Tf 56 548 Td (The local search field filters conversations only. Global search lives in the sidebar.) Tj
+/F1 10 Tf 56 532 Td (Protocol chips replace the active account filter. Account filtering uses a popover.) Tj
+/F1 14 Tf 56 484 Td (Empty state) Tj
+/F1 10 Tf 56 464 Td (Keep empty states compact: icon, one sentence and a recovery action.) Tj
+/F1 10 Tf 56 448 Td (Never fill empty space with decorative charts or fake statistics.) Tj
+ET
+endstream
+endobj
+8 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R >> >> /Contents 9 0 R >>
+endobj
+9 0 obj
+<< /Length 1162 >>
+stream
+BT
+/F1 22 Tf 56 760 Td (Chat and composer) Tj
+/F1 10 Tf 56 732 Td (Incoming bubbles use the lowest surface with a 1 px outline.) Tj
+/F1 10 Tf 56 716 Td (Outgoing bubbles use the primary container. Both use 13 px outer radius.) Tj
+/F1 10 Tf 56 700 Td (The bottom corner nearest the author is reduced to 5 px for grouping.) Tj
+/F1 14 Tf 56 652 Td (Message metadata) Tj
+/F1 10 Tf 56 632 Td (Time is always visible. Delivery state is shown only when the protocol supports it.) Tj
+/F1 10 Tf 56 616 Td (XMPP in this prototype exposes delivery state without read receipts.) Tj
+/F1 10 Tf 56 600 Td (Matrix exposes read receipts and mirrors them in the interface.) Tj
+/F1 14 Tf 56 552 Td (Composer) Tj
+/F1 10 Tf 56 532 Td (The composer keeps the active account visible beneath the input field.) Tj
+/F1 10 Tf 56 516 Td (Enter sends. Shift+Enter adds a new line. Both are configurable in Settings.) Tj
+/F1 10 Tf 56 500 Td (Attachments, images and emoji are first-class actions and must remain keyboard reachable.) Tj
+/F1 14 Tf 56 452 Td (Unread state) Tj
+/F1 10 Tf 56 432 Td (Unread messages are separated by a labelled divider. Reading is explicit in the prototype.) Tj
+ET
+endstream
+endobj
+10 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R >> >> /Contents 11 0 R >>
+endobj
+11 0 obj
+<< /Length 1086 >>
+stream
+BT
+/F1 22 Tf 56 760 Td (Responsive behavior) Tj
+/F1 10 Tf 56 732 Td (Desktop: navigation, conversation list, chat and information panel.) Tj
+/F1 10 Tf 56 716 Td (Panel widths are adjustable by pointer or keyboard separators.) Tj
+/F1 10 Tf 56 700 Td (Tablet: compact 72 px navigation rail and information panel as an overlay.) Tj
+/F1 10 Tf 56 684 Td (Mobile: bottom navigation, full-screen conversation, large touch targets.) Tj
+/F1 14 Tf 56 636 Td (Accessibility) Tj
+/F1 10 Tf 56 616 Td (All interactive elements have accessible names. Focus is always visible.) Tj
+/F1 10 Tf 56 600 Td (Icon buttons use a consistent 1.8 px stroke weight from Lucide.) Tj
+/F1 10 Tf 56 584 Td (Text contrast targets WCAG AA for body copy and controls.) Tj
+/F1 14 Tf 56 536 Td (Identity rules) Tj
+/F1 10 Tf 56 516 Td (Never merge accounts in metadata. Every conversation exposes its source account.) Tj
+/F1 10 Tf 56 500 Td (Matrix and XMPP security features are displayed separately and never generalized.) Tj
+/F1 9 Tf 56 448 Td (This document is a demonstration asset for the Messthon UI prototype.) Tj
+ET
+endstream
+endobj
+xref
+0 12
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000140 00000 n 
+0000000210 00000 n 
+0000000336 00000 n 
+0000001370 00000 n 
+0000001496 00000 n 
+0000002626 00000 n 
+0000002752 00000 n 
+0000003966 00000 n 
+0000004094 00000 n 
+trailer
+<< /Size 12 /Root 1 0 R >>
+startxref
+5233
+%%EOF
